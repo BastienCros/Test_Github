@@ -3,13 +3,18 @@ Règle du Monde générer par la matrice :
 1 - 	Ne pas trop violenter les humains : les cataclysme on tendance
 à les rendre pessimiste.
 
-2 -	Si les humains presentes des défault quelconques (envie récurrente de guerre, d'imposer son point de vue, de mettre de l'eau dans son vin, cooruption injustifié...) tout n'est pas perdu ! Il suffit de modifier les paramètres lirbre arbitre (mettre Off) et obscurantisme (on l'augmente) dans la librairie world_config.h.
+2 -	Si les humains présentent des défault quelconques (envie récurrente de guerre, d'imposer son point de vue,
+de mettre de l'eau dans son vin, cooruption injustifié...)tout n'est pas perdu ! Il suffit de modifier les paramètres
+lirbre arbitre (mettre Off) et obscurantisme (on l'augmente) dans la librairie world_config.h.
 
 !!! REMARQUE !!!
-	L'athée n'es pas une erreur de configuration ! C'est juste un paramètre aléatoire pour éviter que votre controle sur le monde ne se fasse trop remarquer et vous permet de faire des erreur ( eh oui ! personne n'est parfait ! ;-) ).
+	L'athée n'est pas une erreur de configuration ! C'est juste un paramètre aléatoire pour éviter que votre 
+controle sur le monde ne se fasse trop remarquer et vous permet de faire des erreur ( eh oui ! personne n'est
+parfait ! ;-) ).
 
 !!! IMPRORTANT !!!
-	La direction décline toutes responsabilitées en cas de tentative de déicide, la mauvaise gestion de votre monde vous incombes entièrement !
+	La direction décline toutes responsabilitées en cas de tentative de déicide, la mauvaise gestion de votre
+monde vous incombes entièrement !
 
 
 Bon jeu et que la force vous accompagne !! 
