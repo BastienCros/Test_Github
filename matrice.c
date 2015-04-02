@@ -11,7 +11,16 @@
 
 int main()
 {
-
-	return 0;
+	
+	int werr;			
+	werr = init_world(world_pop, world_size);
+	if (!werr)
+	{
+		worl_destroy();
+		return 0;
+	}
+	else 
+		while(1)
+			launch_world();
 
 }
