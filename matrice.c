@@ -4,7 +4,7 @@
 *	pourrons vivre heureux ;-)
 */
 
-#include <lib.h>
+#include <world_config.h>		/* Ici se passe la gestion de TOUS les paramètres	*/
 
 #define world_pop 	100000
 #define world_size 	20
